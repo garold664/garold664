@@ -5,11 +5,13 @@ I am a passionate Front-end React Developer based in Kazan, Russia with over 3 y
 
 I specialize in **React**, **Next.js**, **TypeScript**, and **Redux**.
 
-📚 In my free time, I enhance my skills by reading books and articles in my field and related domains. I strive to grow both in depth and breadth. Additionally, I dedicate time to developing personal projects.
+## 📚 
+In my free time, I enhance my skills by reading books and articles in my field and related domains. I strive to grow both in depth and breadth. Additionally, I dedicate time to developing personal projects.
 
-🗣️ I am fluent in spoken and written English. My verified proficiency level is **C1** (IELTS certificate: [link](https://drive.google.com/file/d/1W-F9DpPNqhHKgKgB-dPoBkn5yM2JFEr6/view?usp=sharing)).
+## 🗣️ 
+I am fluent in spoken and written English. My verified proficiency level is **C1** (IELTS certificate: [link](https://drive.google.com/file/d/1W-F9DpPNqhHKgKgB-dPoBkn5yM2JFEr6/view?usp=sharing)).
 
-🛠️ **Experience and Skills**:
+## 🛠️ **Experience and Skills**:
 
 -   **Frontend**: React, Next.js, TypeScript, Redux
 -   **Animations and UI**: Framer Motion, Storybook, SCSS Modules, CSS Modules, Tailwind
