@@ -9,7 +9,7 @@ I specialize in **React**, **Next.js**, **TypeScript**, and **Redux**.
 In my free time, I enhance my skills by reading books and articles in my field and related domains. I strive to grow both in depth and breadth. Additionally, I dedicate time to developing personal projects.
 
 ## 🗣️ 
-I am fluent in spoken and written English. My verified proficiency level is **C1** (IELTS certificate: [link](https://drive.google.com/file/d/1W-F9DpPNqhHKgKgB-dPoBkn5yM2JFEr6/view?usp=sharing)).
+I am fluent in spoken and written English. My verified proficiency level is **C1** ([IELTS certificate](https://drive.google.com/file/d/1W-F9DpPNqhHKgKgB-dPoBkn5yM2JFEr6/view?usp=sharing)).
 
 ## 🛠️ **Experience and Skills**:
 
