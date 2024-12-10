@@ -17,3 +17,7 @@ I specialize in **React**, **Next.js**, **TypeScript**, and **Redux**.
 -   **Testing**: Jest, React Testing Library, Vitest, Storybook + Loki
 -   **Backend (basic knowledge)**: Express.js, MySQL, MongoDB
 -   **Data Integration**: REST API, GraphQL, Apollo, WebSocket, Socket\.io
+
+#
+
+## 😎 [`Visit My Portfolio`](https://github.com/garold664)
